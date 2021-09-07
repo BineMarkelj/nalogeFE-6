@@ -1,5 +1,7 @@
 # Naloga6
 
+SITE IS HOSTED LIVE AT: https://master.d20vuszhqqzas6.amplifyapp.com/
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.4.
 
 ## Development server
